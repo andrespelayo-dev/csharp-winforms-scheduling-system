@@ -96,6 +96,23 @@ Core database entities include:
 * Country
 * Appointment
 
+## Screenshots
+
+### Login Screen
+![Login Screen](Screenshots/login.png)
+
+### Calendar View
+![Calendar View](Screenshots/calendar.png)
+
+### Add Customer
+![Add Customer](Screenshots/addcst.png)
+
+### Add Appointment
+![Add Appointment](Screenshots/addapt.png)
+
+### Update Appointment
+![Update Appointment](Screenshots/updateapt.png)
+
 ## Software Engineering Concepts Demonstrated
 
 ### Object-Oriented Programming
