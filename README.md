@@ -99,19 +99,19 @@ Core database entities include:
 ## Screenshots
 
 ### Login Screen
-![Login Screen](Screenshots/login.png)
+![Login Screen](Properties/Screenshots/login.png)
 
 ### Calendar View
-![Calendar View](Screenshots/calendar.png)
+![Calendar View](Properties/Screenshots/calendar.png)
 
 ### Add Customer
-![Add Customer](Screenshots/addcst.png)
+![Add Customer](Properties/Screenshots/addcst.png)
 
 ### Add Appointment
-![Add Appointment](Screenshots/addapt.png)
+![Add Appointment](Properties/Screenshots/addapt.png)
 
 ### Update Appointment
-![Update Appointment](Screenshots/updateapt.png)
+![Update Appointment](Properties/Screenshots/updateapt.png)
 
 ## Software Engineering Concepts Demonstrated
 
